@@ -10,4 +10,4 @@ SimpleBlog is a completely responsive personal blog website that is compatible w
 
 ## License
 
-This project is **free to use** and does not contains any license and Don't Forget to give credit.
+This project is **free to use** and does not contains any license and Don't Forget to give the credit.
